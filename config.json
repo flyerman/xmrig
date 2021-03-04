@@ -38,7 +38,7 @@
         {
             "coin": "monero",
             "url": "xmrpool.eu:5555",
-            "user": "44BgJKkPknnj5QZ4JzbvryXZSGQhko5twTbK3DadpWRpEShteBofg1Fgrfy8PdvfZfTBuWUFyLd29YFh9vo2AARbLVi4uAt+1",
+            "user": "44BgJKkPknnj5QZ4JzbvryXZSGQhko5twTbK3DadpWRpEShteBofg1Fgrfy8PdvfZfTBuWUFyLd29YFh9vo2AARbLVi4uAt+__RIGID__",
             "pass": "x",
             "rig-id": "test",
             "keepalive": true,
